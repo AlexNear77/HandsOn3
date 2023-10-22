@@ -52,6 +52,7 @@
     (OrdenCompra (productos (smartphone "Samsung Galaxy S20" "blanco") (accesorio "Mica" "Transparente")) (cliente "Carlos Rodríguez"))
     (OrdenCompra (productos (computadora "Lenovo ThinkPad" "negro") (accesorio "Teclado" "Blanco")) (cliente "Ana Martínez"))
     (OrdenCompra (productos (smartphone "Google Pixel 5" "verde") (accesorio "Cargador Inalámbrico" "Negro")) (cliente "Luis García"))
+    (OrdenCompra (productos (smartphone "Google Pixel 5" "verde") (accesorio "Cargador Inalámbrico" "Negro")) (cliente "Luis García"))
     (OrdenCompra (productos (smartphone "Google Pixel 6" "negro") (accesorio "Cargador Inalámbrico" "Negro")) (cliente "Luis García")))
 
 (deffacts Vales
